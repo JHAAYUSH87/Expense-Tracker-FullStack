@@ -1,0 +1,39 @@
+# Secrets and environment variables
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Local databases and backups
+*.db
+*.sqlite
+*.sqlite3
+backups/
+*_backup*
+
+# Local configuration
+.DS_Store
+.vscode/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Build artifacts
+build/
+dist/
+
+# Local backups
+*.backup
+*.damaged_backup
+*_backup*.py
+*_backup*
+*backup*
+
+# Runtime and generated files
+*.log
