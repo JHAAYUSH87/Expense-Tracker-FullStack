@@ -71,7 +71,20 @@ The current frontend uses `http://127.0.0.1:8000` as its API URL. Remote deploym
 
 ## Screenshots
 
-Screenshots of the dashboard, expenses, budgets, and login screens can be added here.
+### Dashboard
+![Expense Tracker Dashboard](screenshots/dashboard.png)
+
+### Spending Analytics
+![Expense Tracker Analytics](screenshots/analytics.png)
+
+### Expense Management
+![All Expenses](screenshots/expenses.png)
+
+### API Documentation
+![FastAPI Swagger Documentation](screenshots/api-documentation.png)
+
+### Sign In
+![Expense Tracker Sign In](screenshots/signin.png)
 
 ## Project Status
 
